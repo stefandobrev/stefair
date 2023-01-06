@@ -4,4 +4,4 @@ const lama = {
     huiLenght: 25
 }
 
-exports.default = lama;
+module.exports = { lama };
